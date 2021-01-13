@@ -25,3 +25,12 @@ I do something, sometimes.
   
    </p>
 </p>
+
+<br/> <b>Hit me up</b>
+
+<p align="left">
+<a href="https://www.instagram.com/im.jack.skillington/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kushal.bhanot" height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="https://twitter.com/deepum__poudel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
+</p>
+
+
