@@ -19,6 +19,7 @@ I do something, sometimes.
   <code><img src="https://github.com/Dipam1/Dipam1/blob/main/assets/mongo.png" alt="mongo" width="40" height="40"/></code>&nbsp; 
     <code><img src="https://github.com/Dipam1/Dipam1/blob/main/assets/node.png" alt="node" width="40" height="40"/></code>&nbsp; 
   <code><img src="https://github.com/Dipam1/Dipam1/blob/main/assets/github.png" alt="github" width="40" height="40"/></code>&nbsp; 
+  <code><img src="https://github.com/Dipam1/Dipam1/blob/main/assets/git.png" alt="git" width="40" height="40"/></code>&nbsp; 
   
    </p>
 </p>
