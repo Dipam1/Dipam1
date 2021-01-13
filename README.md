@@ -4,7 +4,7 @@ Hello there, people. :)
 
 I do something, sometimes.
 
-![Dipam's github stats](img  src="https://github-readme-stats.vercel.app/api?username=dipam1&&show_icons=true&theme=radical")
+![Dipam's github stats]<img  src="https://github-readme-stats.vercel.app/api?username=dipam1&&show_icons=true&theme=radical">
 
 <br/> <b>Here's the something i do, sometimes</b>
 
