@@ -1,5 +1,4 @@
 Hello there, people. :)
-https://raw.githubusercontent.com/dipam1/dipam1/master/Card.png
 
 I do something, sometimes.
 
