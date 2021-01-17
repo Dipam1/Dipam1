@@ -32,6 +32,7 @@ I do something, sometimes.
 <a href="https://www.instagram.com/im.jack.skellington/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="deepum-insta" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://twitter.com/deepum__poudel" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="deepum-twi" height="40" width="40" /></a> &nbsp;&nbsp;
  <a href="mailto:deepumpoudel@gmail.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="deepum_gmail" height="40" width="40" /></a> &nbsp;&nbsp;
+ <a href="https://www.linkedin.com/in/dipam-poudel/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="deepum_gmail" height="40" width="40" /></a> &nbsp;&nbsp;
 </p>
 
 
