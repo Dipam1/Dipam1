@@ -1,10 +1,9 @@
 
-
-##Hello there, people. :) I'm Dipam Poudel (deepum, if you wanna make me happy), 
-
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Dipam1/Dipam1/blob/main/assets/mortyGif.gif">
 </div>
+## Hello there, people. :) I'm Dipam Poudel (deepum, if you wanna make me happy), 
+
 I do something, sometimes.
 
 <br/><img  src="https://github-readme-stats.vercel.app/api?username=dipam1&&show_icons=true&theme=radical">
