@@ -12,7 +12,7 @@ I do something, sometimes.
 
 
 <p align="center">
- <p align="left">  
+ <p align="center">  
   <code><img src="https://github.com/Dipam1/Dipam1/blob/main/assets/html5.png" alt="html5" width="40" height="40"/></code>&nbsp;
   <code><img src="https://github.com/Dipam1/Dipam1/blob/main/assets/java.png" alt="java" width="40" height="40"/></code>&nbsp;
   <code><img src="https://github.com/Dipam1/Dipam1/blob/main/assets/css3.png" alt="css3" width="40" height="40"/></code>&nbsp; 
@@ -30,7 +30,7 @@ I do something, sometimes.
 
 <br/> <b>Hit me up</b>
 
-<p align="left">
+<p align="center">
 <a href="https://www.instagram.com/im.jack.skellington/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="deepum-insta" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://twitter.com/deepum__poudel" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="deepum-twi" height="40" width="40" /></a> &nbsp;&nbsp;
  <a href="mailto:deepumpoudel@gmail.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="deepum_gmail" height="40" width="40" /></a> &nbsp;&nbsp;
