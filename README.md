@@ -1,7 +1,7 @@
 
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Dipam1/Dipam1/blob/main/assets/mortyGif.gif">
-</div>
+
 ## Hello there, people. :) I'm Dipam Poudel (deepum, if you wanna make me happy), 
 
 I do something, sometimes.
@@ -36,5 +36,5 @@ I do something, sometimes.
  <a href="mailto:deepumpoudel@gmail.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="deepum_gmail" height="40" width="40" /></a> &nbsp;&nbsp;
  <a href="https://www.linkedin.com/in/dipam-poudel/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="deepum_gmail" height="40" width="40" /></a> &nbsp;&nbsp;
 </p>
-
+</div>
 
