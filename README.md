@@ -3,7 +3,7 @@
 ##Hello there, people. :) I'm Dipam Poudel (deepum, if you wanna make me happy), 
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/df29d1a2-4b36-41d7-b01f-a583e5192f9b/d9mlu3g-3550380e-b273-4109-a587-e61ee2bc1b16.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvZGYyOWQxYTItNGIzNi00MWQ3LWIwMWYtYTU4M2U1MTkyZjliXC9kOW1sdTNnLTM1NTAzODBlLWIyNzMtNDEwOS1hNTg3LWU2MWVlMmJjMWIxNi5naWYifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.U9nn-cuob7uRn3yfdtCAb6iknR_khnDlxrmK8sUe_Ug">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Dipam1/Dipam1/blob/main/assets/mortyGif.gif">
 </div>
 I do something, sometimes.
 
