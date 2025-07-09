@@ -1,13 +1,10 @@
 
 <div align="center">
 
-## Hello there, people. :) I'm Dipam Poudel (deepum, if you wanna make me happy), 
+## Hello there, people. :) I'm Dipam Poudel, 
 
-I do something, sometimes.
 
 <br/><img  src="https://github-readme-stats.vercel.app/api?username=dipam1&&show_icons=true&theme=radical">
-
-<br/> <b>Here's the something i do, sometimes</b>
 
 
 <p align="center">
