@@ -1,6 +1,5 @@
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Dipam1/Dipam1/blob/main/assets/mortyGif.gif">
 
 ## Hello there, people. :) I'm Dipam Poudel (deepum, if you wanna make me happy), 
 
